@@ -1,0 +1,2 @@
+export const SET_ITEMS_TO_BUCKET = 'SET_ITEMS_TO_BUCKET';
+export const SET_LIST_OF_ITEMS = 'SET_LIST_OF_ITEMS';
